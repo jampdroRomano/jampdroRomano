@@ -1,10 +1,8 @@
 
 ### olá! Eu sou o joão pedro Romano 
- 👾Atualmente estudando Javascript e NodeJS
- <br>
- 📩Contate-me email: jpvs06x0805@gmail.com
- 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jampdro/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-vieira-dos-santos-romano-6646a4254/)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jampdro/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jampdroromano)
 
 
 
