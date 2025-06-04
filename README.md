@@ -16,6 +16,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
    <img align="center" alt="Figma" width="40" height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+   <img align="center" alt="Figma" width="40" height="40"src="https://img.icons8.com/color/48/git.png" alt="git"/>
+   <img align="center" alt="Figma" width="40" height="40" src="https://img.icons8.com/dusk/64/dbeaver.png" alt="dbeaver"/>
 </div>
 
 
