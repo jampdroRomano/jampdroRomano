@@ -1,5 +1,5 @@
 
-### olá! Eu sou o joão pedro Romano 
+### Olá! Eu sou o joão pedro Romano 
 
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jampdroromano)
