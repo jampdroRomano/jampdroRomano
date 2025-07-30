@@ -23,21 +23,6 @@
    <img align="center" alt="Figma" width="40" height="40" src="https://img.icons8.com/dusk/64/dbeaver.png" alt="dbeaver"/>
 </div>
 
-<BR>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jampdroromano/jampdroromano/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jampdroromano/jampdroromano/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/jampdroromano/jampdroromano/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 <BR>
