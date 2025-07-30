@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jampdroRomano&theme=blue-green)
-<img height="195em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampdroRomano&layout=compact&langs_count=7&theme=blue-green&count_private=true"/>
+<img height="195em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampdroRomano&layout=compact&langs_count=7&theme=blue-green&count_private=true"/>
 
 ## Tecnologias que eu uso!!!
 
