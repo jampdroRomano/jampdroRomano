@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jampdroRomano&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jampdroRomano&layout=compact&theme=blue-green)](https://github.com/jampdroRomano)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampdroRomano&layout=compact&langs_count=7&theme=blue-green&count_private=true"/>
 
 ## Tecnologias que eu uso!!!
 
@@ -23,5 +23,21 @@
    <img align="center" alt="Figma" width="40" height="40" src="https://img.icons8.com/dusk/64/dbeaver.png" alt="dbeaver"/>
 </div>
 
+<BR>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jampdroromano/jampdroromano/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jampdroromano/jampdroromano/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/jampdroromano/jampdroromano/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <BR>
