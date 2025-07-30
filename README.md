@@ -7,6 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jampdroRomano&theme=blue-green)
+[![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&layout=compact&theme=blue-green)](https://github.com/ishandutta2007/beautiful-github-homepage)
 
 ## Tecnologias que eu uso!!!
 
