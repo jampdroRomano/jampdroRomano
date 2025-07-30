@@ -9,11 +9,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jampdroRomano&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jampdroRomano&layout=compact&theme=blue-green)](https://github.com/jampdroRomano)
 
-
-
 ## Tecnologias que eu uso!!!
 
   <div style="display: inline_block"><br>
+   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
+   <img align="center" alt="Java" height="30" width="40" href="https://www.cprogramming.com/" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" />
   <img align="center" " alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
