@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     # Executa a cada 12 horas para manter o SVG atualizado
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -12,17 +12,21 @@ jobs:
     permissions:
       contents: write
       pages: write
-
+      
     steps:
       - uses: actions/checkout@v3
-
       - uses: Platane/snk@v3
         with:
-          github_user_name: jampdroRomano
-          outputs: dist/github-contribution-grid-snake-blue-white.svg
-          color_snake: FFFFFF
-          color_dots: fffefe,c4e5ff,a7d2ff,97c4ff,89CFFF
-
+          # Seu nome de usuário do GitHub
+          github_user_name: jampdroRomano 
+          
+          # Ação: Gera o arquivo SVG com as cores customizadas
+          # color_snake: Branco (#FFFFFF)
+          # color_dots: Gradiente de azul claro para o alvo (#89CFFF)
+          outputs: |
+            dist/github-contribution-grid-snake-blue-white.svg?color_snake=FFFFFF&color_dots=fffefe,c4e5ff,a7d2ff,97c4ff,89CFFF
+            
+      # Empurra o SVG gerado para a branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
