@@ -49,7 +49,7 @@ Adoro transformar ideias ambiciosas em projetos funcionais que realmente fazem a
 
 ---
 
-<img src="https://raw.githubusercontent.com/jampdroRomano/jampdroRomano/output/github-contribution-grid-snake-blue-white-v2.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jampdroRomano/jampdroRomano/output/github-contribution-grid-snake-blue-white-v2.svg?color_snake=FFFFFF&color_dots=89CFFF" alt="Snake animation" />
 
 ---
 
