@@ -48,11 +48,10 @@ Adoro transformar ideias ambiciosas em projetos funcionais que realmente fazem a
 <img height="500" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampdroRomano&hide_border=true&layout=compact&langs_count=7&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&count_private=true&title_color=36BCF7&text_color=36BCF7"/>
 
 ---
-![Snake animation](https://github.com/bryzzen-kibador/bryzzen-kibador/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/jampdroRomano/jampdroRomano/output/github-contribution-grid-snake-blue-white.svg" alt="Snake animation" />
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
 
-<img src="https://raw.githubusercontent.com/jampdroRomano/jampdroRomano/output/github-contribution-grid-snake-green.svg" alt="Snake animation" />
 
