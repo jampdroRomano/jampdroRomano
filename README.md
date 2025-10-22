@@ -48,7 +48,8 @@ Adoro transformar ideias ambiciosas em projetos funcionais que realmente fazem a
 <img height="500" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampdroRomano&hide_border=true&layout=compact&langs_count=7&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&count_private=true&title_color=36BCF7&text_color=36BCF7"/>
 
 ---
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPO/blob/output/dist/github-contribution-grid-snake-blue-white-v2.svg?color_snake=FFFFFF&color_dots=fffefe,c4e5ff,a7d2ff,97c4ff,89CFFF)
+
+![Snake animation](https://github.com/jampdroRomano/jampdroRomano/blob/output/dist/github-contribution-grid-snake-blue-white.svg)
 
 ---
 
