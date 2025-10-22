@@ -49,7 +49,7 @@ Adoro transformar ideias ambiciosas em projetos funcionais que realmente fazem a
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampdroRomano&hide_border=true&layout=compact&langs_count=7&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&count_private=true&title_color=36BCF7&text_color=36BCF7" width="40%" />
   <img width="19%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZid2p0MXVxOGk2bHY5ejQ3a2FraHYweWxoZXczMnYzNmw1MDJnaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" />
-  <img width="19%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGlkdGpwZmtndnRwczgyeTI0bzRmdDdyNWtlaGZwNzNtaDRleDM3MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5u20uyKnhNnZXmV2qg/giphy.gif" />
+  <img width="16%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGlkdGpwZmtndnRwczgyeTI0bzRmdDdyNWtlaGZwNzNtaDRleDM3MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5u20uyKnhNnZXmV2qg/giphy.gif" />
   <img width="19%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHp3cnNqdzVjYzFwdWtrcWk4N3Q2MzZyemIwczR0dnd6b2t4cnJwbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mr0lkw8evmCXG1J6jO/giphy.gif" />
   
 
