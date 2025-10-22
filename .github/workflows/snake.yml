@@ -24,7 +24,7 @@ jobs:
           # color_snake: Branco (#FFFFFF)
           # color_dots: Gradiente de azul claro para o alvo (#89CFFF)
           outputs: |
-            dist/github-contribution-grid-snake-blue-white.svg?color_snake=FFFFFF&color_dots=fffefe,c4e5ff,a7d2ff,97c4ff,89CFFF
+           dist/github-contribution-grid-snake-blue-white-v2.svg?color_snake=FFFFFF&color_dots=fffefe,c4e5ff,a7d2ff,97c4ff,89CFFF
             
       # Empurra o SVG gerado para a branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3.1.0
