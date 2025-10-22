@@ -27,6 +27,7 @@ Adoro transformar ideias ambiciosas em projetos funcionais que realmente fazem a
 
 ## 🛠️ Working Tools
 
+---
   <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
    <img align="center" alt="Java" height="30" width="40" href="https://www.cprogramming.com/" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" />
